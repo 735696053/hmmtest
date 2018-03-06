@@ -3,6 +3,5 @@ public class test {
         int  a = 4;
         Math.sqrt(4);
         System.out.print(4^2);
-        System.out.print(4^2);System.out.print(4^2);
     }
 }
